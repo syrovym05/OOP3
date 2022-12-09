@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\bin\Debug\OOP3Auto.exe.config
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\bin\Debug\OOP3Auto.exe
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\bin\Debug\OOP3Auto.pdb
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.Form1.resources
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.exe
+C:\Users\marsy\Source\Repos\OOP3Auto\OOP3Auto\obj\Debug\OOP3Auto.pdb
